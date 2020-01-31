@@ -1,0 +1,4 @@
+#fixed velocity
+fixed: 10
+max: 30
+min: 5

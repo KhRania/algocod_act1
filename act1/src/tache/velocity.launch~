@@ -1,0 +1,7 @@
+<launch>
+
+  <rosparam  file="$(find tache)/vitesse.yaml" command="load" />
+
+  <node pkg="tache" name="tache" type="$(find tache)/ex2.py" output="screen" />
+
+</launch>

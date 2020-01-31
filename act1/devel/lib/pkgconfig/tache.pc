@@ -1,0 +1,8 @@
+prefix=/home/rania/act1/devel
+
+Name: tache
+Description: Description of tache
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rania/act1/devel/lib 
+Requires: 
