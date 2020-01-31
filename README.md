@@ -1,1 +1,0 @@
-# algocod_act1

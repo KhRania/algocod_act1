@@ -2,7 +2,7 @@
 tache
 =====================
 Turtlesim est configuré par une vitesse fixe
-La vitesse est fixé dans un fichier config/vitesse.yaml cette valeur sera chargé dans le fichier launch/variableVelocity.launch qui sera par la suite utiliser par un script python scr/variableVelocity.py
+La vitesse est fixée dans un fichier config/vitesse.yaml cette valeur sera chargé dans le fichier launch/variableVelocity.launch qui sera par la suite utiliser par un script python scr/variableVelocity.py
 
 Démarrage
 ============

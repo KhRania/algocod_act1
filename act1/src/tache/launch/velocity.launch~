@@ -1,7 +1,0 @@
-<launch>
-
-  <rosparam  file="$(find tache)/config/vitesse.yaml" command="load" />
-  <node pkg="turtlesim" name="turtlesim_vitesse" type="turtlesim_node" output="screen" />
-  <node pkg="tache" name="tache" type="$(find tache)/src/variableVelocity.py" output="screen" />
-  <node pkg="tache" name="tache" type="$(find tache)/src/fixedVelocity.py" output="screen" />
-</launch>
