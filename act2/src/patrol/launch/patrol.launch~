@@ -1,8 +1,0 @@
- <launch>
-   
- 
-   <node pkg="turtlesim" name="turtlesim" type="turtlesim_node" />
-   <node name="patrol" pkg="patrol" type="patrol.py" output="screen" />
-   
-
- </launch>
